@@ -1,0 +1,15 @@
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.exe
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.deps.json
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.runtimeconfig.json
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.dll
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.pdb
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.dll
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\refint\ExemploConstrutores.dll
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.pdb
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.genruntimeconfig.cache
+C:\Projetos\dio-localizalabs\construtores\ExemploConstrutores\obj\Debug\net7.0\ref\ExemploConstrutores.dll
